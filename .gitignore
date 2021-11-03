@@ -7,6 +7,13 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+target/
+
+# properties
+dubbo-consumer/src/main/resources/dubbo-consumer.properties
+dubbo-provider/src/main/resources/dubbo-provider.properties
+
+
 # Editor directories and files
 .idea
 *.suo
